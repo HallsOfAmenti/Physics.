@@ -7,6 +7,9 @@ playlist: [John Brandenburg - by: Through A Glass Darkly](https://www.youtube.co
 
 book: [Beyond Einstein's Unified Field: Gravity & Electro-Magnetism Redefined](https://www.amazon.com/Beyond-Einsteins-Unified-Field-Electro-Magnetism/dp/1935487426)
 
+## relation: 42.8485 ^ 2 = Electron Proton Mass Ratio
+https://en.wikipedia.org/wiki/Proton-to-electron_mass_ratio
+
 ## relation: Kaluza–Klein theory
 https://en.wikipedia.org/wiki/Kaluza%E2%80%93Klein_theory
 
