@@ -10,3 +10,12 @@ book: [Beyond Einstein's Unified Field: Gravity & Electro-Magnetism Redefined](h
 
 ### relation: Kaluza–Klein theory
 https://en.wikipedia.org/wiki/Kaluza%E2%80%93Klein_theory
+
+#### Theodor Kaluza
+https://en.wikipedia.org/wiki/Theodor_Kaluza
+
+#### Oskar Klein
+https://en.wikipedia.org/wiki/Oskar_Klein
+
+#### Gunnar Nordström
+https://en.wikipedia.org/wiki/Gunnar_Nordstr%C3%B6m
