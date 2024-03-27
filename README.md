@@ -12,6 +12,11 @@ https://en.wikipedia.org/wiki/Kaluza%E2%80%93Klein_theory
 
 ### Radion aka Graviscalar
 https://en.wikipedia.org/wiki/Graviscalar
+- https://en.wikipedia.org/wiki/Graviphoton
+- https://en.wikipedia.org/wiki/Dilaton
+- https://en.wikipedia.org/wiki/Scalar_field
+- https://en.wikipedia.org/wiki/Randall%E2%80%93Sundrum_model
+- https://en.wikipedia.org/wiki/Goldberger%E2%80%93Wise_mechanism
 
 ### Theodor Kaluza
 https://en.wikipedia.org/wiki/Theodor_Kaluza
