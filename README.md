@@ -36,3 +36,7 @@ https://en.wikipedia.org/wiki/Gunnar_Nordstr%C3%B6m
 
 #### -> Tensor software
 https://en.wikipedia.org/wiki/Tensor_software
+
+## relation: 1/137 Fine Structure Constant
+- https://bigthink.com/hard-science/number-137-physics/
+- https://en.wikipedia.org/wiki/Fine-structure_constant
