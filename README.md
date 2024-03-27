@@ -10,7 +10,11 @@ book: [Beyond Einstein's Unified Field: Gravity & Electro-Magnetism Redefined](h
 ## relation: Kaluza–Klein theory
 https://en.wikipedia.org/wiki/Kaluza%E2%80%93Klein_theory
 
-### Radion aka Graviscalar
+### relation:
+#### -> Brans–Dicke theory
+https://en.wikipedia.org/wiki/Brans%E2%80%93Dicke_theory
+
+#### -> Radion aka Graviscalar
 https://en.wikipedia.org/wiki/Graviscalar
 - https://en.wikipedia.org/wiki/Graviphoton
 - https://en.wikipedia.org/wiki/Dilaton
@@ -18,12 +22,14 @@ https://en.wikipedia.org/wiki/Graviscalar
 - https://en.wikipedia.org/wiki/Randall%E2%80%93Sundrum_model
 - https://en.wikipedia.org/wiki/Goldberger%E2%80%93Wise_mechanism
 
-### Theodor Kaluza
+#### -> Theodor Kaluza
 https://en.wikipedia.org/wiki/Theodor_Kaluza
 
-### Oskar Klein
+#### -> Oskar Klein
 https://en.wikipedia.org/wiki/Oskar_Klein
 
-### Gunnar Nordström
+#### -> Gunnar Nordström
 https://en.wikipedia.org/wiki/Gunnar_Nordstr%C3%B6m
 
+#### -> Tensor software
+https://en.wikipedia.org/wiki/Tensor_software
